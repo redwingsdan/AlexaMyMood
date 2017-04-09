@@ -1,0 +1,16 @@
+Angular based front end
+Log in/Registration page
+Page populated with food menu (diff tabs for each menu?)
+-Could also just populate dropdown with all users(not secure)
+-------------------------------------------------------
+-Events handled by java core to make requests to php
+-Events handled by js to make ajax calls to java servlet
+-------------------------------------------------------
+SQL in php or sql files to connect to db and make requests
+DB transactions made and sent back as JSON response to mapper or to js directly
+-------------------------------------------------------
+Database table for users, menu items, orders
+-If we want to filter foods then we need item type lk (vegetarian, sides etc)
+-If we want to filter users then we need user type lk (user permissions)
+
+
